@@ -9,9 +9,9 @@ Feel free to [connect with me through Linkedin](https://www.linkedin.com/in/gabr
 ## Table of Contents:
 
 1. [Go-Food Customer Journey Breakdown](https://github.com/Gabriabel/DA-Portfolio#go-food-customer-journey-breakdown)
-2. [Spreadsheet - Retail Property Analysis with Regression Analysis](https://github.com/Gabriabel/DA-Portfolio/sql---optimizing-clothing-categories-using-bcg-matrix)
-3. [SQL - Optimizing Clothing Categories Using BCG Matrix](https://github.com/Gabriabel/DA-Portfolio/python---identifying-key-trends-and-customer-segmentation)
-4. [Python - Identifying Key Trends and Customer Segmentation](https://github.com/Gabriabel/DA-Portfolio/python---identifying-key-trends-and-customer-segmentation)
+2. [Spreadsheet - Retail Property Analysis with Regression Analysis](https://github.com/Gabriabel/DA-Portfolio#spreadsheet---retail-property-analysis-with-regression-analysis)
+3. [SQL - Optimizing Clothing Categories Using BCG Matrix](https://github.com/Gabriabel/DA-Portfolio#sql---optimizing-clothing-categories-using-bcg-matrix)
+4. [Python - Identifying Key Trends and Customer Segmentation](https://github.com/Gabriabel/DA-Portfolio#python---identifying-key-trends-and-customer-segmentation)
 5. [Data Visualization - Brazilian E-commerce Dashboard](https://github.com/Gabriabel/DA-Portfolio/data-visualization---brazilian-e-commerce-dashboard)
 6. [Project Based Analytics - Retail Bank Reviews and Credit Cards](https://github.com/Gabriabel/DA-Portfolio/project-based-analytics---retail-bank-reviews-and-credit-cards)
 
