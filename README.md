@@ -37,7 +37,7 @@ Within this project, I used mainly SQL to do the analysis with the purpose of de
 
 ADD SCREENSHOT HERE
 
-Here's [the link for the PDF file.](https://drive.google.com/file/d/1c5IEH0q8XuHeBWFAV3MGi-qzh9sipx1O/view?usp=share_link)
+Here are [the link for the PDF file](https://drive.google.com/file/d/1c5IEH0q8XuHeBWFAV3MGi-qzh9sipx1O/view?usp=share_link) and [the Google BigQuery link](https://console.cloud.google.com/bigquery?sq=112590217515:b174fbece7704c84a03662bf9b21886c)
 
 ## Python - Identifying Key Trends and Customer Segmentation
 
@@ -45,7 +45,7 @@ This is a project that I did with Google Colaboratory as its IDE to identify key
 
 ADD SCREENSHOT HERE
 
-Here's [the link for the PDF file.](https://drive.google.com/file/d/1FSP8XV8KRwmx66kgUTKaGfNB-icZ1VaC/view?usp=share_link)
+Here are [the link for the PDF file](https://drive.google.com/file/d/1FSP8XV8KRwmx66kgUTKaGfNB-icZ1VaC/view?usp=share_link) and [the Google Colaboratory file](https://colab.research.google.com/drive/1wYxR124VUB8f10wgSsBbZhj7SXbIW4mG?usp=share_link)
 
 ## Data Visualization - Brazilian E-commerce Dashboard
 
